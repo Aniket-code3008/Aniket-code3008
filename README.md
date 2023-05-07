@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket-code3008
-- 👀 I’m interested in Data Science, Blockchain, Web3 
-- 🌱 I’m currently learning Data Science Machine Learning 
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Blockchain, Web3 
+- 🌱 I’m currently learning Blockchain, Web3
+- 💞️ I’m looking to collaborate onWeb3 Projects
 - 📫 How to reach me at aniket.bhardwaj3008@gmail.com
 
 <!---
